@@ -25,3 +25,9 @@ Connected all links to eachother across every page
 Added a landing page to experiment with more in depth effects (may or may not commit with homework)
 
 Started planning further design/color themes (nothing drastic, just something to add a personal touch)
+
+Brief checks for responsiveness and break points
+
+Had to do re research on js, jquery etc tags and to find bug with hamburger menu
+
+Changed image size and responsiveness to smaller screens
