@@ -3,3 +3,14 @@
         text-align: center;
     }
 }
+
+
+
+
+.carousel-inner img {
+    margin: auto;
+}
+
+.main-container, .jumbotron {
+    background-color: whitesmoke;
+}
