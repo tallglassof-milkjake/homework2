@@ -6,6 +6,7 @@
 
 body {
     background: url(img/double-bubble.png);
+    width: auto;
 }
 
 
@@ -15,6 +16,7 @@ body {
     margin: auto;
 }
 
-.main-container, .jumbotron {
-    background-color: whitesmoke;
+.main-container {
+    background-color: white;
+    height: 800px;
 }
