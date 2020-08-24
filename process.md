@@ -31,3 +31,11 @@ Brief checks for responsiveness and break points
 Had to do re research on js, jquery etc tags and to find bug with hamburger menu
 
 Changed image size and responsiveness to smaller screens
+
+
+<!--24/08/20-->
+
+Adjusted the footer to make it more responsive and fixed the width sizing bug
+
+Was in the middle of cleaning code then jumped into class
+
